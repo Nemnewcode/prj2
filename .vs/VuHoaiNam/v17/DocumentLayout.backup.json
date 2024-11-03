@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|c:\\k22cnt4\\ttcd\\vuhoainam\\vuhoainam\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|solutionrelative:vuhoainam\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|c:\\k22cnt4\\ttcd\\vuhoainam\\vuhoainam\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|solutionrelative:vuhoainam\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|C:\\K22CNT4\\TTCD\\VuHoaiNam\\vuhoainam\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|solutionrelative:vuhoainam\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|c:\\k22cnt4\\ttcd\\vuhoainam\\vuhoainam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|solutionrelative:vuhoainam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|C:\\K22CNT4\\TTCD\\VuHoaiNam\\vuhoainam\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|solutionrelative:vuhoainam\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|C:\\K22CNT4\\TTCD\\VuHoaiNam\\vuhoainam\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|solutionrelative:vuhoainam\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|C:\\K22CNT4\\TTCD\\VuHoaiNam\\vuhoainam\\areas\\admin\\views\\shared\\_partiasidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|solutionrelative:vuhoainam\\areas\\admin\\views\\shared\\_partiasidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|C:\\K22CNT4\\TTCD\\VuHoaiNam\\vuhoainam\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|solutionrelative:vuhoainam\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|C:\\K22CNT4\\TTCD\\VuHoaiNam\\vuhoainam\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|solutionrelative:vuhoainam\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|c:\\k22cnt4\\ttcd\\vuhoainam\\vuhoainam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6AD5396-3CD8-41A4-A8C0-1FC72F859BA7}|VuHoaiNam\\VuHoaiNam.csproj|solutionrelative:vuhoainam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "VuHoaiNam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "VuHoaiNam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T12:23:41.986Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Views\\Category\\Add.cshtml",
-              "RelativeDocumentMoniker": "VuHoaiNam\\Areas\\Admin\\Views\\Category\\Add.cshtml",
-              "ToolTip": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Views\\Category\\Add.cshtml",
-              "RelativeToolTip": "VuHoaiNam\\Areas\\Admin\\Views\\Category\\Add.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAUwDkAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T12:21:15.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_PartiaSideBar.cshtml",
-              "DocumentMoniker": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
-              "RelativeDocumentMoniker": "VuHoaiNam\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
-              "ToolTip": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
-              "RelativeToolTip": "VuHoaiNam\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T12:05:08.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "VuHoaiNam\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "VuHoaiNam\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "VuHoaiNam\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "VuHoaiNam\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:23:30.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "VuHoaiNam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "VuHoaiNam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T11:15:23.171Z"
+              "WhenOpened": "2024-11-03T10:01:11.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "VuHoaiNam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "VuHoaiNam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VuHoaiNam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VuHoaiNam\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4CAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T11:06:08.392Z"
+              "WhenOpened": "2024-11-03T09:56:21.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "VuHoaiNam\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "VuHoaiNam\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:05:44.994Z"
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VuHoaiNam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\K22CNT4\\TTCD\\VuHoaiNam\\VuHoaiNam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VuHoaiNam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T09:53:21.801Z",
+              "EditorCaption": ""
             }
           ]
         }

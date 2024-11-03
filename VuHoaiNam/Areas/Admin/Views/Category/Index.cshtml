@@ -9,10 +9,10 @@
             <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
         </li>
         <li class="nav-item d-none d-sm-inline-block">
-            <a href="/admin/home/" class="nav-link">Trang chu</a>
+            <a href="/admin/home/" class="nav-link">Trang chủ</a>
         </li>
         <li class="nav-item d-none d-sm-inline-block">
-            <a href="/admin/category" class="nav-link">Danh muc</a>
+            <a href="/admin/category" class="nav-link">Danh mục</a>
         </li>
     </ul> 
 }
@@ -21,12 +21,12 @@
     <div class="container-fluid">
         <div class="row mb-2">
             <div class="col-sm-6">
-                <h1>quan ly danh muc</h1>
+                <h1>Quản lý danh mục</h1>
             </div>
             <div class="col-sm-6">
                 <ol class="breadcrumb float-sm-right">
                     <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item active">Danh muc</li>
+                    <li class="breadcrumb-item active">Danh mục</li>
                 </ol>
             </div>
         </div>
@@ -39,10 +39,10 @@
     <!-- Default box -->
     <div class="card">
         <div class="card-header">
-            <h3 class="card-title">Danh sach danb muc</h3>
+            <h3 class="card-title">Danh sách danh mục</h3>
 
             <div class="card-tools">
-                <a href="/admin/Category/add" class="btn btn-primary">Them moi</a>
+                <a href="/admin/Category/add" class="btn btn-primary">Thêm mới</a>
             </div>
         </div>
         <div class="card-body">
@@ -50,26 +50,35 @@
               <thead>
                   <tr>
                   <th>STT</th>
-                  <th>Them</th>
-                  <th>Thu tu</th>
+                  <th>Thêm</th>
+                  <th>Thứ tự</th>
                   <th></th>
               </tr>
               </thead>
               <tbody>
                   @if (Model != null && Model.Any())
                   {
-                      <tr>
-                          <th></th>
-                          <th></th>
-                          <th></th>
-                          <th></th>
-                      </tr>
+                      var i = 1;
+                      foreach (var item in Model)
+                      {
+                          <tr>
+                              <th>@i</th>
+                              <th>@item.Title</th>
+                              <th>@item.Position</th>
+                              <th>
+                                  <a href="/admin/category/edit/@item.Id" class="btn btn-sm btn-primary">Sửa</a>
+                                  <a href="/admin/category/edit/@item.Id" class="btn btn-sm btn-danger">Xoá</a>
+                              </th>
+                          </tr>
+                          i++;
+                      }
+
                   }
                   else
                   {
                       <tr>
-                          <th colspan="4">khong co ban ghi nao!!!</th>
-                         
+                          <th colspan="4">Không có bản ghi nào!!!</th>
+
                       </tr>
                   }
               </tbody>

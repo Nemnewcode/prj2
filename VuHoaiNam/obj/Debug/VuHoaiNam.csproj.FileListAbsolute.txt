@@ -108,3 +108,4 @@ C:\K22CNT4\TTCD\VuHoaiNam\VuHoaiNam\obj\Debug\VuHoaiNam.dll
 C:\K22CNT4\TTCD\VuHoaiNam\VuHoaiNam\obj\Debug\VuHoaiNam.pdb
 C:\K22CNT4\TTCD\VuHoaiNam\VuHoaiNam\obj\Debug\VuHoaiNam.Migrations.CreateDatabase.resources
 C:\K22CNT4\TTCD\VuHoaiNam\VuHoaiNam\obj\Debug\VuHoaiNam.csproj.GenerateResource.cache
+C:\K22CNT4\TTCD\VuHoaiNam\VuHoaiNam\obj\Debug\VuHoaiNam.Migrations.UpdateCategory.resources
